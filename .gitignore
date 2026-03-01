@@ -1,0 +1,12 @@
+# Ignore large video assets
+data/*.mp4
+data/*.avi
+output/*.mp4
+output/*.avi
+
+# Ignore Python bytecode (generated when you run the script)
+__pycache__/
+*.py[cod]
+
+# Ignore OS-specific files (like DS_Store on Mac)
+.DS_Store
