@@ -13,3 +13,6 @@ This project implements a multi-stage image processing pipeline to reconstruct t
 ## Engineering Stack
 * **Language**: Python 3.11
 * **Libraries**: OpenCV (Computer Vision), NumPy (Linear Algebra/Matrix Operations)
+
+## License
+This project is for academic purposes as part of NEU 172L coursework at UC Berkeley.
